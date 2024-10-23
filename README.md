@@ -1,6 +1,4 @@
-# Hi there, I'm @r4ppz19 👋
-
-## About Me
+## IDK
 - I don't have a skill yet :(
 
 <!---
