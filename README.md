@@ -1,5 +1,6 @@
 ## IDK
-- I don't have a skill yet :(
+
+- Nothing
 
 <!---
 r4ppz19/r4ppz19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
