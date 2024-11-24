@@ -1,8 +1,4 @@
-## IDK
-
-- Java main
-- Boring repo (すべて)
-- Still learning 
+## DON'T TRY
 
 <!---
 r4ppz19/r4ppz19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
