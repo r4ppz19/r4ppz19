@@ -1,1 +1,1 @@
-## DON'T TRY
+# Programming is hard
