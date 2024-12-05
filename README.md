@@ -1,1 +1,1 @@
-# Programming is hard
+# Noob
