@@ -5,4 +5,6 @@
 - JavaFX framework
 - CSS
 - SceneBuilder
-- Git n GitHub
+- Git
+- GitHub
+- Maven
