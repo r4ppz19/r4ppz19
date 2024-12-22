@@ -6,7 +6,6 @@ I am a beginner programmer currently diving into the world of software developme
 
 - 🔭 I’m currently working on my project: [Archive](https://github.com/r4ppz19/Archive.git).
 - 🌱 I’m currently learning Java, JavaFX, CSS, SceneBuilder, Git, GitHub, and Maven.
-- 💬 Ask me about my learning journey or any beginner tips for Java and JavaFX.
 
 ## Skills
 
