@@ -1,4 +1,4 @@
-# Hi there, I'm r4ppz19! 👋
+# Hi there, I'm r4ppz! 😮
 
 [![GitHub followers](https://img.shields.io/github/followers/r4ppz19?label=Follow&style=social)](https://github.com/r4ppz19)
 
