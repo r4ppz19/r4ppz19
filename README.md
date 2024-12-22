@@ -1,7 +1,5 @@
 # Hi there, I'm r4ppz! 😮
 
-[![GitHub followers](https://img.shields.io/github/followers/r4ppz19?label=Follow&style=social)](https://github.com/r4ppz19)
-
 ## About Me
 
 I am a beginner programmer currently diving into the world of software development. My focus is on building interactive and visually appealing applications using Java and JavaFX.
