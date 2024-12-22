@@ -19,9 +19,3 @@ I am a beginner programmer currently diving into the world of software developme
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ppz19&layout=compact&theme=dracula)
-
-## Projects
-
-Here are some of my notable projects:
-
-- [Archive](https://github.com/r4ppz19/Archive.git) : A project where I am applying my skills in Java and JavaFX to create an interactive application.
