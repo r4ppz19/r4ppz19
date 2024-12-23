@@ -1,5 +1,3 @@
-# Hi there, I'm r4ppz! 😮
-
 ## About Me
 
 I am a beginner programmer currently diving into the world of software development. My focus is on building interactive and visually appealing applications using Java and JavaFX.
