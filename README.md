@@ -1,6 +1,6 @@
 ## About Me
 
-I am a beginner programmer currently diving into the world of software development. My focus is on building interactive and visually appealing applications using Java and JavaFX.
+I am a beginner programmer currently diving into the world of software development. My focus is on building interactive applications using Java and JavaFX.
 
 - 🌱 I’m currently learning Java, JavaFX, CSS, SceneBuilder, Git, GitHub, and Maven.
 
