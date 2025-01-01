@@ -6,7 +6,7 @@ I am a beginner programmer currently diving into the world of software developme
 
 ## Skills
 
-- **Languages**: Java
+- **Languages**: Java, C
 - **Frameworks and Tools**: JavaFX, CSS, SceneBuilder, Git, GitHub, Maven
 
 
