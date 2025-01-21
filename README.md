@@ -1,6 +1,6 @@
 ## About Me
 
-###Beginner
+### Beginner
 
 - 🌱 I’m currently learning Java, JavaFX, CSS, SceneBuilder, Git, GitHub, and Maven.
 
