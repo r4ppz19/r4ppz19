@@ -1,9 +1,4 @@
 **Beginner**
-- 🌱 I’m currently learning Java, JavaFX, CSS, SceneBuilder, Git, GitHub, and Maven.
-
-- **Languages**: Java, C
-- **Frameworks and Tools**: JavaFX, CSS, SceneBuilder, Git, GitHub, Maven
-
 
 ## Top Languages
 
