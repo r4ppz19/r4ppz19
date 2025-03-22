@@ -1,3 +1,3 @@
-**Beginner**
-
+- Beginner
 - Love Linux
+- Main Language: Java
