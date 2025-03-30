@@ -1,3 +1,4 @@
 - Beginner
 - Love Linux
-- Java
+- Language: Java
+- Framework: JavaFX
