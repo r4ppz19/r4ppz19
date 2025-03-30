@@ -1,3 +1,3 @@
 - Beginner
 - Love Linux
-- Programming Language: Java
+- Java
