@@ -1,6 +1,7 @@
 ### About me
 - Beginner
 - Love Linux
+- Learning
 
 ### Tools & Technologies
 - **Languages**: Bash, Python, Java
