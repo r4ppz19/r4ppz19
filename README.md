@@ -1,17 +1,23 @@
-### About me
-- Beginner
-- Love Linux
-- Learning
+## About Me  
+- Beginner  
+- Love Linux 
+- Always learning  
 
-### Tools & Technologies
-- **Languages**: Bash, Python, Java
-- **Frameworks**: JavaFX
-- **OS**: Arch Linux 🐧
+---
 
-### My Linux setup
-- **[Arch-dotfiles](https://github.com/r4ppz19/Arch-Hyprland-dotfiles.git)**: My personal dotfiles
+## Tools  
+- **Languages**: Bash, Python, Java  
+- **Frameworks**: JavaFX  
+- **OS**: Arch Linux 🐧  
 
-### Currently Learning
-- Linux
-- WebDev
-- Python
+---
+
+## Setup  
+- [Dotfiles](https://github.com/r4ppz19/Arch-Hyprland-dotfiles.git)  
+
+---
+
+## Learning  
+- Linux  
+- Web  
+- Python  
