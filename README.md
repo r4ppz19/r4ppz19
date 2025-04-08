@@ -2,14 +2,15 @@
 - Beginner
 - Love Linux
 
-### 🔧 Tools & Technologies
+### Tools & Technologies
 - **Languages**: Bash, Python, Java
 - **Frameworks**: JavaFX
 - **OS**: Arch Linux 🐧
 
-### 📂 My Projects
+### My Projects
 - **[Arch-dotfiles](https://github.com/r4ppz19/Arch-Hyprland-dotfiles.git)**: My personal dotfiles
 
-### 🌱 Currently Learning
+### Currently Learning
 - Linux
-
+- WebDev
+- Python
