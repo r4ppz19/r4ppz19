@@ -1,8 +1,7 @@
-about me (from worst to least worst):
-- lives in the Philippines (´π`)
-- i use arch btw 8-|
-- copy code i don't understand (×_×;)
-- hate reading but want to learn :(
-- 19 years old
+about me:
 - beginner
+- 19 years old
 - minimalist
+- i use arch btw 8-|
+- lives in the Philippines (´π`)
+- hate reading but want to learn :(
