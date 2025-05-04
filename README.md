@@ -1,5 +1,3 @@
-### The goal is to learn
-
 about me:
 - beginner
 - 19 years old
