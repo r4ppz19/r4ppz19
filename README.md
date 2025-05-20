@@ -3,4 +3,4 @@
 about me:
 - beginner
 - minimalist
-- i use arch btw 8-|
+- i use arch btw 🤓
