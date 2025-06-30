@@ -3,5 +3,5 @@
 about me:
 - beginner
 - minimalist
-- bsit student
-- i use arch btw 🤓
+- BSIT student
+- i like configuring stuff
