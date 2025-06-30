@@ -3,5 +3,5 @@
 about me:
 - beginner
 - minimalist
-- BSIT student
+- bsit student
 - i like configuring stuff
